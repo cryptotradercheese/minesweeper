@@ -39,12 +39,18 @@ class Field {
     }
 
     void print() {
+        System.out.println(" |123456789|");
+        System.out.println("-|---------|");
         for (int i = 0; i < this.field.length; i++) {
+            StringBuilder row = new StringBuilder();
+            row.append(i + 1 + "|");
             for (int j = 0; j < this.field[0].length; j++) {
-                System.out.print(this.field[i][j]);
+                row.append(this.field[i][j]);
             }
-            System.out.println();
+            row.append("|");
+            System.out.println(row);
         }
+        System.out.println("-|---------|");
     }
 
     private char[][] generateField() {
