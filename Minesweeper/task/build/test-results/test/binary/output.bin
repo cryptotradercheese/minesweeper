@@ -1,0 +1,2200 @@
+[1;31m
+Start test 1[0m
+)How many mines do you want on the field?
+> 1
+
+.........
+
+.........
+
+.........
+
+.........
+
+.......11
+
+.......1X
+
+.......11
+
+.........
+
+.........
+[1;31m
+Start test 2[0m
+)How many mines do you want on the field?
+> 1
+
+.........
+
+.........
+
+.........
+
+.........
+
+.....111.
+
+.....1X1.
+
+.....111.
+
+.........
+
+.........
+[1;31m
+Start test 3[0m
+)How many mines do you want on the field?
+> 2
+
+.........
+
+.........
+
+.........
+
+.........
+
+.....111.
+
+.111.1X1.
+
+.1X1.111.
+
+.111.....
+
+.........
+[1;31m
+Start test 4[0m
+)How many mines do you want on the field?
+> 2
+
+.........
+
+.........
+
+.........
+
+11.......
+
+X1111....
+
+111X1....
+
+..111....
+
+.........
+
+.........
+[1;31m
+Start test 5[0m
+)How many mines do you want on the field?
+> 3
+
+.111.....
+
+.1X1.....
+
+.111.....
+
+......111
+
+......1X1
+
+......111
+
+.....111.
+
+.....1X1.
+
+.....111.
+[1;31m
+Start test 6[0m
+)How many mines do you want on the field?
+> 3
+
+.........
+
+...111...
+
+...1X1...
+
+...222...
+
+...1X1...
+
+...111...
+
+..111....
+
+..1X1....
+
+..111....
+[1;31m
+Start test 7[0m
+)How many mines do you want on the field?
+> 4
+
+.........
+
+.........
+
+111......
+
+1X1111...
+
+1122X1...
+
+..1X21...
+
+..111....
+
+....111..
+
+....1X1..
+[1;31m
+Start test 8[0m
+)How many mines do you want on the field?
+> 4
+
+.........
+
+.........
+
+......111
+
+.111..1X1
+
+12X1..111
+
+X2221....
+
+111X1....
+
+..111....
+
+.........
+[1;31m
+Start test 9[0m
+)How many mines do you want on the field?
+> 5
+
+.......11
+
+.111...1X
+
+.1X1...11
+
+.222.....
+
+.1X1.111.
+
+.111.1X1.
+
+.....111.
+
+..111....
+
+..1X1....
+[1;31m
+Start test 10[0m
+)How many mines do you want on the field?
+> 5
+
+...1X1...
+
+...1221..
+
+....1X1..
+
+....111..
+
+11..111..
+
+X1..1X1..
+
+11..11211
+
+......1X1
+
+......111
+[1;31m
+Start test 11[0m
+)How many mines do you want on the field?
+> 6
+
+.1X1.....
+
+.111.....
+
+.........
+
+.....111.
+
+.111.1X21
+
+12X2122X1
+
+1X22X1111
+
+111111...
+
+.........
+[1;31m
+Start test 12[0m
+)How many mines do you want on the field?
+> 6
+
+13X2.....
+
+1XX2.....
+
+1221.....
+
+.........
+
+....11111
+
+....1X22X
+
+....112X2
+
+......111
+
+.........
+[1;31m
+Start test 13[0m
+)How many mines do you want on the field?
+> 7
+
+.........
+
+111.111..
+
+1X1.1X1..
+
+222.111..
+
+2X2....11
+
+2X2..112X
+
+221..1X21
+
+X1...111.
+
+11.......
+[1;31m
+Start test 14[0m
+)How many mines do you want on the field?
+> 7
+
+.1X11X1..
+
+.1111221.
+
+.....1X1.
+
+...11211.
+
+...1X1...
+
+..1221...
+
+..1X1....
+
+11111111.
+
+X1...1X1.
+[1;31m
+Start test 15[0m
+)How many mines do you want on the field?
+> 8
+
+.1X211...
+
+.112X1...
+
+111111...
+
+2X1......
+
+X21.11111
+
+11112X11X
+
+..1X21111
+
+..1221...
+
+...1X1...
+[1;31m
+Start test 16[0m
+)How many mines do you want on the field?
+> 8
+
+....1X1..
+
+....111..
+
+.........
+
+.........
+
+221......
+
+XX1111...
+
+X422X1...
+
+12X22321.
+
+.1111XX1.
+[1;31m
+Start test 17[0m
+)How many mines do you want on the field?
+> 9
+
+XX1......
+
+221......
+
+.........
+
+....111..
+
+....1X211
+
+..11213X2
+
+..1X113X2
+
+..1123X31
+
+....1XX2.
+[1;31m
+Start test 18[0m
+)How many mines do you want on the field?
+> 9
+
+.........
+
+.........
+
+.........
+
+11....111
+
+X21...1X1
+
+3X2...122
+
+2X2..112X
+
+223222X21
+
+1X2XX211.
+[1;31m
+Start test 19[0m
+)How many mines do you want on the field?
+> 10
+
+.1X11X1..
+
+.111111..
+
+2321.....
+
+XXX2.....
+
+35X2111..
+
+X2111X111
+
+11..1111X
+
+.111...11
+
+.1X1.....
+[1;31m
+Start test 20[0m
+)How many mines do you want on the field?
+> 10
+
+111X1..2X
+
+X2111..2X
+
+X31....11
+
+2X1......
+
+111......
+
+..111....
+
+..1X1....
+
+..2331.11
+
+..1XX1.1X
+[1;31m
+Start test 21[0m
+)How many mines do you want on the field?
+> 11
+
+..1122X4X
+
+..1X2X3XX
+
+111121222
+
+X1.......
+
+2221211..
+
+1X2X2X1..
+
+1132311..
+
+..1X1....
+
+..111....
+[1;31m
+Start test 22[0m
+)How many mines do you want on the field?
+> 11
+
+1X1111...
+
+1222X1...
+
+12X211...
+
+1X32.....
+
+12X11221.
+
+.1111XX1.
+
+..124431.
+
+111XXX1..
+
+X112321..
+[1;31m
+Start test 23[0m
+)How many mines do you want on the field?
+> 12
+
+....1221.
+
+..123XX1.
+
+..1XX321.
+
+..1221.11
+
+....1122X
+
+111.1X2X2
+
+1X2122311
+
+23X11X111
+
+X2111111X
+[1;31m
+Start test 24[0m
+)How many mines do you want on the field?
+> 12
+
+X11X2X1..
+
+111121211
+
+11...12X1
+
+X21..1X21
+
+3X2..111.
+
+2X31.....
+
+34X1.....
+
+XX31.....
+
+3X2......
+[1;31m
+Start test 25[0m
+)How many mines do you want on the field?
+> 13
+
+..1221.1X
+
+..1XX1.11
+
+..1221.11
+
+..1221.1X
+
+..1XX2121
+
+..1222X1.
+
+1221.222.
+
+2XX222X1.
+
+2X4X2X21.
+[1;31m
+Start test 26[0m
+)How many mines do you want on the field?
+> 13
+
+111......
+
+1X1......
+
+111..111.
+
+.111.2X31
+
+.1X224X4X
+
+.23X2XX31
+
+.1X33432.
+
+1212X2X21
+
+X1.1122X1
+[1;31m
+Start test 27[0m
+)How many mines do you want on the field?
+> 14
+
+121212X1.
+
+X2X2X211.
+
+121322...
+
+11.1X1...
+
+X1.1221..
+
+12222X1..
+
+12XX31211
+
+X23X322X1
+
+1112X2X21
+[1;31m
+Start test 28[0m
+)How many mines do you want on the field?
+> 14
+
+..11213X3
+
+112X2X4XX
+
+1X32424X3
+
+112X3X222
+
+..12X211X
+
+111111.11
+
+1X21.....
+
+13X2.....
+
+.2X2.....
+[1;31m
+Start test 29[0m
+)How many mines do you want on the field?
+> 15
+
+...111111
+
+...1X22X2
+
+...12X23X
+
+....1112X
+
+11...1121
+
+X21111X21
+
+X42X2222X
+
+X4X32X222
+
+13X2112X1
+[1;31m
+Start test 30[0m
+)How many mines do you want on the field?
+> 15
+
+....1X1..
+
+11..11111
+
+X21....1X
+
+3X2112121
+
+2X22X3X1.
+
+1112X421.
+
+23222X21.
+
+XXX223X1.
+
+X422X211.
+[1;31m
+Start test 31[0m
+)How many mines do you want on the field?
+> 16
+
+X2.111...
+
+X2.1X21..
+
+11.13X2..
+
+....3X311
+
+11..2X21X
+
+X1..12221
+
+343211X1.
+
+XXXX23331
+
+23322XX2X
+[1;31m
+Start test 32[0m
+)How many mines do you want on the field?
+> 16
+
+XXX321...
+
+233XX1111
+
+..12211X1
+
+..111.111
+
+..2X2....
+
+.13X2....
+
+12X321111
+
+2X33X22X3
+
+2X22X22XX
+[1;31m
+Start test 33[0m
+)How many mines do you want on the field?
+> 17
+
+2XX1.2XX2
+
+X321.2XX3
+
+2221114X3
+
+2X2X1.2X2
+
+X2322.111
+
+111X1....
+
+..111.122
+
+......2XX
+
+......2XX
+[1;31m
+Start test 34[0m
+)How many mines do you want on the field?
+> 17
+
+1122X1.1X
+
+1X2X32122
+
+22312X22X
+
+2X31223X2
+
+2X3X33X32
+
+1122XX4X2
+
+...24X32X
+
+...1X2111
+
+...111...
+[1;31m
+Start test 35[0m
+)How many mines do you want on the field?
+> 18
+
+2XXX31...
+
+X45XX2...
+
+3X23X2...
+
+X21222...
+
+1113X2111
+
+..1XX22X3
+
+.123223XX
+
+12X1.1X32
+
+1X21.111.
+[1;31m
+Start test 36[0m
+)How many mines do you want on the field?
+> 18
+
+X2X21..1X
+
+122X21.11
+
+..23X211.
+
+.12X22X1.
+
+13X422221
+
+X3X5X32X1
+
+134XX3X21
+
+.1XX32121
+
+.1221..1X
+[1;31m
+Start test 37[0m
+)How many mines do you want on the field?
+> 19
+
+.2X3XX322
+
+.3X65X5XX
+
+14XXX3XX3
+
+1XX422221
+
+1221.....
+
+111..111.
+
+3X2..1X1.
+
+XX2..222.
+
+221..1X1.
+[1;31m
+Start test 38[0m
+)How many mines do you want on the field?
+> 19
+
+2XXXX2...
+
+2X44X3121
+
+111112X2X
+
+.11212121
+
+13X4X1.11
+
+2XXX2112X
+
+2X43211X2
+
+1223X2111
+
+.1X3X2...
+[1;31m
+Start test 39[0m
+)How many mines do you want on the field?
+> 20
+
+112232211
+
+1X3XXX3X2
+
+124XX33X3
+
+12X32223X
+
+1X3322X21
+
+113XX211.
+
+112X31122
+
+X212211XX
+
+X2.1X1122
+[1;31m
+Start test 40[0m
+)How many mines do you want on the field?
+> 20
+
+.1112XX2.
+
+.1X23XX2.
+
+1323X321.
+
+X3X433221
+
+2X3XX3XX2
+
+2244X323X
+
+1X3X32121
+
+113X21X21
+
+..111112X
+[1;31m
+Start test 41[0m
+)How many mines do you want on the field?
+> 21
+
+.12321...
+
+23XXX1...
+
+XX4X31111
+
+34421.1X1
+
+1XX1.1221
+
+134323X31
+
+.2XX2XXX2
+
+13X434XX2
+
+X22X12X31
+[1;31m
+Start test 42[0m
+)How many mines do you want on the field?
+> 21
+
+111.1X21.
+
+1X1123X21
+
+1122X22X2
+
+..1X2112X
+
+.12321122
+
+13X4X33X2
+
+1XX5X4XX2
+
+35X33X532
+
+XX212X3X1
+[1;31m
+Start test 43[0m
+)How many mines do you want on the field?
+> 22
+
+12X1.1XX1
+
+1X3211343
+
+123X212XX
+
+.2X4X23X3
+
+14X53X211
+
+X4XX42311
+
+X43X3X2X1
+
+X33231211
+
+2X2X1....
+[1;31m
+Start test 44[0m
+)How many mines do you want on the field?
+> 22
+
+12X3X2.11
+
+2X34X313X
+
+X3X223X3X
+
+24321X332
+
+3XX1123X2
+
+XX3212X3X
+
+2211X2132
+
+.1232112X
+
+.1XX1.1X2
+[1;31m
+Start test 45[0m
+)How many mines do you want on the field?
+> 23
+
+X22212XX1
+
+12XX23X63
+
+234X23XXX
+
+XX2112X42
+
+X42111121
+
+X22X31.1X
+
+234XX1122
+
+1XX3211X2
+
+1221..12X
+[1;31m
+Start test 46[0m
+)How many mines do you want on the field?
+> 23
+
+..12XX2..
+
+112X5X211
+
+1X23X423X
+
+2323X3X3X
+
+X3X433232
+
+X43XX12X2
+
+34X4323X2
+
+XX4X11X21
+
+3X311111.
+[1;31m
+Start test 47[0m
+)How many mines do you want on the field?
+> 24
+
+.1X2X2221
+
+.23544XX3
+
+.2XXXX6XX
+
+13X44X4X3
+
+2X3111322
+
+3X2.112X1
+
+X32.2X421
+
+3X223XX1.
+
+X3X2X321.
+[1;31m
+Start test 48[0m
+)How many mines do you want on the field?
+> 24
+
+X3XX2X2X1
+
+25X422321
+
+2XX312X42
+
+2X4X35XXX
+
+2233XXX52
+
+1X12X5X2.
+
+111112121
+
+111221.1X
+
+X11XX1.11
+[1;31m
+Start test 49[0m
+)How many mines do you want on the field?
+> 25
+
+1233X2121
+
+2XXX23X4X
+
+2X5312XX2
+
+12X1.1221
+
+232212221
+
+XX11X3XX2
+
+333235X6X
+
+2X4X3XX4X
+
+2XX23X321
+[1;31m
+Start test 50[0m
+)How many mines do you want on the field?
+> 25
+
+111XX11X1
+
+X12331222
+
+111X212X1
+
+12322X322
+
+1XX3434X2
+
+345XXX5X3
+
+XX3X5X4X2
+
+X54343421
+
+X3XX2XX1.
+[1;31m
+Start test 51[0m
+)How many mines do you want on the field?
+> 26
+
+...1XX2X2
+
+.1133322X
+
+13X3X2111
+
+X3X43X111
+
+3533X432X
+
+XXX33XX32
+
+36X32X4X2
+
+X5X32123X
+
+XX3X1..2X
+[1;31m
+Start test 52[0m
+)How many mines do you want on the field?
+> 26
+
+X4X32X321
+
+2XXX22XX1
+
+134311221
+
+12X321.11
+
+X34XX212X
+
+23XX55X42
+
+X334XXXX3
+
+23X2245XX
+
+1X21.1X32
+[1;31m
+Start test 53[0m
+)How many mines do you want on the field?
+> 27
+
+12X2X3X31
+
+X42325X4X
+
+XX21X4X42
+
+XX213X4X2
+
+33113X44X
+
+X1.1X34XX
+
+12233X3X4
+
+.2XX3222X
+
+.2X4X1.11
+[1;31m
+Start test 54[0m
+)How many mines do you want on the field?
+> 27
+
+..1X22X3X
+
+1244X23X3
+
+2XXX212X2
+
+4X631.222
+
+XXX1.13X2
+
+343212XX3
+
+X22X33XX3
+
+X23XX34X3
+
+112X32X3X
+[1;31m
+Start test 55[0m
+)How many mines do you want on the field?
+> 28
+
+2X12X3X1.
+
+X212X4221
+
+11123X12X
+
+.12X2124X
+
+.2X4322XX
+
+13X5XX34X
+
+X32XXX44X
+
+X314XX3XX
+
+X2.2X3222
+[1;31m
+Start test 56[0m
+)How many mines do you want on the field?
+> 28
+
+X2212222X
+
+2X3X2XX21
+
+23X44321.
+
+2X5XX3111
+
+3XX4XX22X
+
+2X4445X21
+
+12X2XX542
+
+12234XXXX
+
+X11X224XX
+[1;31m
+Start test 57[0m
+)How many mines do you want on the field?
+> 29
+
+13XX32X21
+
+X3XX5X33X
+
+123X5X33X
+
+1123X3X43
+
+X23X432XX
+
+23XXX1122
+
+2X4421122
+
+X5X3112XX
+
+X4XX11X32
+[1;31m
+Start test 58[0m
+)How many mines do you want on the field?
+> 29
+
+.123XXX1.
+
+12XX6642.
+
+2X6XXXX1.
+
+3X5XXX421
+
+2X33X32X2
+
+11122224X
+
+2211X34XX
+
+XX213XXX3
+
+3X2.2XX31
+[1;31m
+Start test 59[0m
+)How many mines do you want on the field?
+> 30
+
+12XX2XXX2
+
+X3222233X
+
+X31123221
+
+4X32XXX31
+
+XX4X34XX2
+
+34X21134X
+
+3X43333X3
+
+XX4XXXX3X
+
+3X33X4221
+[1;31m
+Start test 60[0m
+)How many mines do you want on the field?
+> 30
+
+.1X1.113X
+
+122322X5X
+
+X21XX23XX
+
+X324434XX
+
+35X4XX3X4
+
+XXX4X323X
+
+45322223X
+
+XX223X3X3
+
+23X2XX32X
+[1;31m
+Start test 61[0m
+)How many mines do you want on the field?
+> 31
+
+11112223X
+
+1X22XX3XX
+
+13X44X44X
+
+13X5X5X31
+
+X43XX5X31
+
+XX445X5X3
+
+XX3XX5XXX
+
+X3223XX5X
+
+11..12221
+[1;31m
+Start test 62[0m
+)How many mines do you want on the field?
+> 31
+
+2X21X1.1X
+
+2X3221.11
+
+344X2211.
+
+XXX4X3X1.
+
+X65X5X542
+
+XX5X6XXXX
+
+3X4XX4564
+
+333345XXX
+
+XX11XXX42
+[1;31m
+Start test 63[0m
+)How many mines do you want on the field?
+> 32
+
+X2X22X23X
+
+1224X4X3X
+
+112XX5343
+
+X23XXX3XX
+
+2X34X44X3
+
+223X44X21
+
+3X43XX42.
+
+XXX45XX21
+
+3X4XX322X
+[1;31m
+Start test 64[0m
+)How many mines do you want on the field?
+> 32
+
+XX2.12X1.
+
+XX413X42.
+
+4X3X3XX21
+
+X3313333X
+
+2X113X22X
+
+2333XX543
+
+X4XX5XXXX
+
+3XX5X6X63
+
+X323X4XX1
+[1;31m
+Start test 65[0m
+)How many mines do you want on the field?
+> 33
+
+1X3X21122
+
+12X3X33XX
+
+13232XX5X
+
+X4X324X52
+
+2XXX35XX2
+
+2455XXX5X
+
+2XX4X65X2
+
+X6X42XX42
+
+X4X213XX1
+[1;31m
+Start test 66[0m
+)How many mines do you want on the field?
+> 33
+
+XX3X32XXX
+
+334X4X443
+
+X24X413X3
+
+13XX312XX
+
+24X5X4443
+
+XX33XXXX2
+
+XX42445X3
+
+3X3X3X54X
+
+11213XXX2
+[1;31m
+Start test 67[0m
+)How many mines do you want on the field?
+> 34
+
+X3XX223XX
+
+X4222XX53
+
+X32235X5X
+
+23XX3XXX4
+
+X3333X6XX
+
+23X234X42
+
+2X4X4XX41
+
+X3X4XXXX1
+
+122X34X31
+[1;31m
+Start test 68[0m
+)How many mines do you want on the field?
+> 34
+
+X3XX12X4X
+
+X42334X5X
+
+X2.1XX34X
+
+22.1222X2
+
+X2....122
+
+X4222334X
+
+4XX3XXXXX
+
+XXX446XXX
+
+X43X2XX5X
+[1;31m
+Start test 69[0m
+)How many mines do you want on the field?
+> 35
+
+2XX111222
+
+4X521X3XX
+
+XXX445X64
+
+25XXXXXXX
+
+14XXX4332
+
+X4X421122
+
+2X32123XX
+
+35X22XX6X
+
+XXX22XXX2
+[1;31m
+Start test 70[0m
+)How many mines do you want on the field?
+> 35
+
+X12XX2X21
+
+345X544X2
+
+XXXXX5XX2
+
+3545XXX41
+
+X3X345X42
+
+X43X3X4XX
+
+4X435X33X
+
+XX5XX2122
+
+X4XX31.1X
+[1;31m
+Start test 71[0m
+)How many mines do you want on the field?
+> 36
+
+2XX43XX32
+
+X7XXX33XX
+
+XXXX5213X
+
+245XX2111
+
+24X44X211
+
+XXX34X42X
+
+4X6X5XX21
+
+X5XX5X421
+
+XX323X21X
+[1;31m
+Start test 72[0m
+)How many mines do you want on the field?
+> 36
+
+23X4XXX1.
+
+XX4XX6531
+
+35X43XXX3
+
+X5X3125XX
+
+X5X2125XX
+
+2X432XXX3
+
+23XX34X53
+
+X545X43XX
+
+XXX3XX222
+[1;31m
+Start test 73[0m
+)How many mines do you want on the field?
+> 37
+
+..12X3XXX
+
+..1X5X7XX
+
+1244XXXXX
+
+2XXX5XXXX
+
+3XX55X55X
+
+2X6XX4X32
+
+24XXX313X
+
+X5X421.2X
+
+XX21...11
+[1;31m
+Start test 74[0m
+)How many mines do you want on the field?
+> 37
+
+X113X4X3X
+
+222XX4X42
+
+X34X4334X
+
+3XX44X2XX
+
+3X6XX4444
+
+4X6XXX2XX
+
+XX6XX445X
+
+34XX4X3XX
+
+X22222X4X
+[1;31m
+Start test 75[0m
+)How many mines do you want on the field?
+> 38
+
+XXX3X5XXX
+
+X535XXX53
+
+24X6XX32X
+
+1XXXX5221
+
+2466X4X42
+
+1XXX56XXX
+
+235XXXX53
+
+2X33X544X
+
+2X212X2XX
+[1;31m
+Start test 76[0m
+)How many mines do you want on the field?
+> 38
+
+122X3XXXX
+
+X3X4X5X53
+
+25X42X4X3
+
+2XX4335XX
+
+2X5XX3XXX
+
+223X4X5X4
+
+X43222X5X
+
+XXX3334XX
+
+233XXX3XX
+[1;31m
+Start test 77[0m
+)How many mines do you want on the field?
+> 39
+
+X4X4XXX21
+
+3XX6X64X1
+
+X6X5X3X32
+
+X6X4234X2
+
+X4X44X5X3
+
+354XXX7X4
+
+XXX5XXXXX
+
+X434XXX6X
+
+111X3323X
+[1;31m
+Start test 78[0m
+)How many mines do you want on the field?
+> 39
+
+2X12X5X4X
+
+X444XXXX3
+
+3XXX6X64X
+
+X5X5XX4X4
+
+3X33X44XX
+
+4X5445X42
+
+XXXXXXX42
+
+4X435X5XX
+
+X21.2X33X
+[1;31m
+Start test 79[0m
+)How many mines do you want on the field?
+> 40
+
+12X33XX4X
+
+2X6XX34XX
+
+2XXX412XX
+
+345X42344
+
+XX32XX3XX
+
+XX33445XX
+
+344XX4XXX
+
+X4XX6XX53
+
+X4XXX322X
+[1;31m
+Start test 80[0m
+)How many mines do you want on the field?
+> 40
+
+X222224XX
+
+23XX3XXXX
+
+X433X4553
+
+XX4434XX2
+
+XXXXX5XX4
+
+X67X6XXXX
+
+4XXX6X56X
+
+XX5XX23XX
+
+2222212X3
+[1;31m
+Start test 81[0m
+)How many mines do you want on the field?
+> 41
+
+1XXX34X31
+
+36X6XXX4X
+
+XXXX5656X
+
+X5X5XXXXX
+
+2446X66X5
+
+2XXXXX5XX
+
+X6656XX4X
+
+XXXX4X432
+
+2333X22X1
+[1;31m
+Start test 82[0m
+)How many mines do you want on the field?
+> 41
+
+2XXXXXX31
+
+4X8X65XX2
+
+XXXX4X5X4
+
+47XX436XX
+
+XXX43XXX4
+
+X55X44XX3
+
+3X4XX35X3
+
+3X445X4X2
+
+X3X2XX311
+[1;31m
+Start test 83[0m
+)How many mines do you want on the field?
+> 42
+
+1112XXXXX
+
+3X34X65X3
+
+XXX5X4X32
+
+X6X5X32X2
+
+X54X4212X
+
+X6XXX4343
+
+XXX6XXXXX
+
+4XX54XXX5
+
+2XXX224XX
+[1;31m
+Start test 84[0m
+)How many mines do you want on the field?
+> 42
+
+2212XXXX3
+
+XX24X65XX
+
+X6X4X4X5X
+
+3XX65X5X3
+
+3XXXXX5X3
+
+3X76X45X4
+
+2XXX43XXX
+
+236XX45XX
+
+1X3X4XX4X
+[1;31m
+Start test 85[0m
+)How many mines do you want on the field?
+> 43
+
+X4X11XXXX
+
+XX32124XX
+
+45X333332
+
+XX3XXXX42
+
+X445X6XXX
+
+35XX5X6X3
+
+XXX6XXX42
+
+X64XX7XX3
+
+X3X4X4XXX
+[1;31m
+Start test 86[0m
+)How many mines do you want on the field?
+> 43
+
+XXXX3XXXX
+
+4X6X44XXX
+
+X34X43X42
+
+X33XX2232
+
+X33X633XX
+
+X23XXX5X4
+
+345XXX7X3
+
+XXXXXXXX3
+
+3X44X44X2
+[1;31m
+Start test 87[0m
+)How many mines do you want on the field?
+> 44
+
+2XXXXXXXX
+
+2XXX55XX5
+
+23322X4XX
+
+X3122346X
+
+X5X4X2XXX
+
+X6XX346X4
+
+XX543XXX3
+
+X7XX35X6X
+
+XXX4X3X4X
+[1;31m
+Start test 88[0m
+)How many mines do you want on the field?
+> 44
+
+X3213X5X2
+
+XX5X5XXX3
+
+XXXXX555X
+
+X56XXX2XX
+
+24XX5346X
+
+2XXX33XXX
+
+3X64X3XX4
+
+2X5X556X4
+
+12XXXXXXX
+[1;31m
+Start test 89[0m
+)How many mines do you want on the field?
+> 45
+
+XXX3XX5X3
+
+X545XXXXX
+
+4X4XXXX64
+
+XXX6655XX
+
+XXXXXX4X5
+
+5XX7X54XX
+
+XX5XXX444
+
+223XXX4XX
+
+..12323X3
+[1;31m
+Start test 90[0m
+)How many mines do you want on the field?
+> 45
+
+1XX4X422X
+
+24X6XXX31
+
+X55XXXX41
+
+XXXX76X4X
+
+X8XXXX55X
+
+XXXX5XXX4
+
+XXX6446XX
+
+24XXX3XX4
+
+.13XX33X2
+[1;31m
+Start test 91[0m
+)How many mines do you want on the field?
+> 46
+
+X212X2X3X
+
+X43X3224X
+
+XX6X424X4
+
+XXXX5XXXX
+
+XXX6XX6X5
+
+X6XX335XX
+
+25X643XXX
+
+X5XXXX46X
+
+X4XXX4X3X
+[1;31m
+Start test 92[0m
+)How many mines do you want on the field?
+> 46
+
+XX3X4X3XX
+
+46X5XX533
+
+XXX5XX4X3
+
+XXX6545XX
+
+XXXXXX5XX
+
+4X6455XXX
+
+2X5X5XX6X
+
+23XXXX54X
+
+1X34XX3X2
+[1;31m
+Start test 93[0m
+)How many mines do you want on the field?
+> 47
+
+13XXX4XX2
+
+X5XXX6XX3
+
+4XX54XXX3
+
+XXX33X65X
+
+X744X4XX3
+
+XXX5X434X
+
+XXXX32X43
+
+5X8X534XX
+
+XXXXXX3XX
+[1;31m
+Start test 94[0m
+)How many mines do you want on the field?
+> 47
+
+23XX4XXXX
+
+XX6X5XX6X
+
+4X7X6544X
+
+4XXXXXX43
+
+XX76X44XX
+
+5XXX424XX
+
+XX7X4X4XX
+
+X6XX414XX
+
+2XXX2.2XX
+[1;31m
+Start test 95[0m
+)How many mines do you want on the field?
+> 48
+
+XXXX32X3X
+
+XXXX4X4X3
+
+4XXX64X4X
+
+X56XXX6X3
+
+X5XXXXXX3
+
+X5X6X7X5X
+
+2X4X5XX63
+
+225XX6XXX
+
+1X3XX4XX3
+[1;31m
+Start test 96[0m
+)How many mines do you want on the field?
+> 48
+
+XXX22X44X
+
+XXX45XXXX
+
+XX5XXXXXX
+
+346X65XX5
+
+2XXXX45XX
+
+3X7X6XX6X
+
+X5XXX43XX
+
+XX56X335X
+
+23XX22XX2
+[1;31m
+Start test 97[0m
+)How many mines do you want on the field?
+> 49
+
+X4XXXXX31
+
+4XXX8XXX2
+
+XXXXXX7X3
+
+4XX56X6X3
+
+3X4X5X7X3
+
+X433XXXX4
+
+XX45X66XX
+
+5XXXX4XXX
+
+XXX43X34X
+[1;31m
+Start test 98[0m
+)How many mines do you want on the field?
+> 49
+
+XX4XXX32X
+
+34XXXXX53
+
+2X6XXXXXX
+
+3X6X7X6XX
+
+X6XXX4X4X
+
+XXXXX4242
+
+X6XX55X5X
+
+X424XXXXX
+
+X2.2XXX42
+[1;31m
+Start test 99[0m
+)How many mines do you want on the field?
+> 50
+
+2XX4XXX4X
+
+X66XXX6XX
+
+XXXX66XX4
+
+3433XXXX4
+
+X3224XXXX
+
+XX5X44X6X
+
+XXXX5X45X
+
+XXXX7XX4X
+
+3X5XXXX31
+[1;31m
+Start test 100[0m
+)How many mines do you want on the field?
+> 50
+
+13X32XXX2
+
+X5XX55XX3
+
+X7XXXX7X4
+
+XXXXXXXXX
+
+46XX7XX8X
+
+XX55XXXXX
+
+X5XX7X653
+
+X55XXXX4X
+
+2XX334XX2
