@@ -38,6 +38,21 @@ class Field {
         }
     }
 
+    void switchMine() throws Exception {
+        Scanner scanner = new Scanner(System.in);
+        int x = scanner.nextInt();
+        int y = scanner.nextInt();
+        scanner.close();
+
+        if (String.valueOf(field[y - 1][x - 1]).matches("\\d")) {
+            throw new Exception("Cell is occupied");
+        } else if (field[y - 1][x - 1] == '.') {
+            field[y - 1][x - 1] = '*';
+        } else if (field[y - 1][x - 1] == '*') {
+            field[y - 1][x - 1] = '.';
+        }
+    }
+
     void print() {
         System.out.println(" |123456789|");
         System.out.println("-|---------|");
@@ -134,5 +149,17 @@ class Field {
             }
         }
         this.print();
+    }
+}
+
+enum FieldState {
+    EMPTY('.'),
+    MARKED('*'),
+    FIGURE('1');
+
+    char symbol;
+
+    FieldState(char symbol) {
+        this.symbol = symbol;
     }
 }

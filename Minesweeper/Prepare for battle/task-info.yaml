@@ -516,9 +516,6 @@ files:
         }
     }
   learner_created: false
-- name: src/minesweeper/some.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/77/stages/429/implement#comment
 status: Unchecked
 record: -1
