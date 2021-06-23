@@ -3,6 +3,7 @@ package minesweeper;
 import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,18 +14,39 @@ public class Main {
 
         Field field = new Field();
         field.fillWithMines(minesCount);
-        field.printWithHints();
+        field.displayNumbers();
+        field.print();
+
+        while (!field.isGameFinished()) {
+            System.out.print("Set/delete mine marks (x and y coordinates): ");
+            int x = scanner.nextInt();
+            int y = scanner.nextInt();
+            System.out.println();
+
+            try {
+                field.switchMine(x, y);
+            } catch (Exception e) {
+                System.out.println("There is a number here!");
+                continue;
+            }
+            field.print();
+        }
+
+        System.out.println("Congratulations! You found all the mines!");
     }
 }
 
 class Field {
     final char[][] field;
+    int[][] minesCoordinates;
+    int markedCellsCount = 0;
 
     Field() {
         this.field = this.generateField();
     }
 
     void fillWithMines(int minesCount) {
+        minesCoordinates = new int[minesCount][2];
         final Random random = new Random();
         for (int i = 0; i < minesCount; i++) {
             int randRow;
@@ -35,50 +57,11 @@ class Field {
             } while (this.field[randRow][randColumn] != '.');
 
             this.field[randRow][randColumn] = 'X';
+            minesCoordinates[i] = new int[] {randColumn, randRow};
         }
     }
 
-    void switchMine() throws Exception {
-        Scanner scanner = new Scanner(System.in);
-        int x = scanner.nextInt();
-        int y = scanner.nextInt();
-        scanner.close();
-
-        if (String.valueOf(field[y - 1][x - 1]).matches("\\d")) {
-            throw new Exception("Cell is occupied");
-        } else if (field[y - 1][x - 1] == '.') {
-            field[y - 1][x - 1] = '*';
-        } else if (field[y - 1][x - 1] == '*') {
-            field[y - 1][x - 1] = '.';
-        }
-    }
-
-    void print() {
-        System.out.println(" |123456789|");
-        System.out.println("-|---------|");
-        for (int i = 0; i < this.field.length; i++) {
-            StringBuilder row = new StringBuilder();
-            row.append(i + 1 + "|");
-            for (int j = 0; j < this.field[0].length; j++) {
-                row.append(this.field[i][j]);
-            }
-            row.append("|");
-            System.out.println(row);
-        }
-        System.out.println("-|---------|");
-    }
-
-    private char[][] generateField() {
-        char[][] field = new char[9][9];
-        for (int i = 0; i < field.length; i++) {
-            for (int j = 0; j < field[0].length; j++) {
-                field[i][j] = '.';
-            }
-        }
-        return field;
-    }
-
-    void printWithHints() {
+    void displayNumbers() {
         for (int i = 0; i < this.field.length; i++) {
             for (int j = 0; j < this.field[0].length; j++) {
                 if (this.field[i][j] == '.') {
@@ -148,18 +131,63 @@ class Field {
                 }
             }
         }
-        this.print();
+
+        for (int i = 0; i < this.field.length; i++) {
+            for (int j = 0; j < this.field[0].length; j++) {
+                if (field[i][j] == 'X') {
+                    field[i][j] = '.';
+                }
+            }
+        }
     }
-}
 
-enum FieldState {
-    EMPTY('.'),
-    MARKED('*'),
-    FIGURE('1');
+    void switchMine(int x, int y) throws Exception {
+        if (String.valueOf(field[y - 1][x - 1]).matches("\\d")) {
+            throw new Exception("Cell is occupied");
+        } else if (field[y - 1][x - 1] == '.') {
+            field[y - 1][x - 1] = '*';
+            markedCellsCount++;
+        } else if (field[y - 1][x - 1] == '*') {
+            field[y - 1][x - 1] = '.';
+            markedCellsCount--;
+        }
+    }
 
-    char symbol;
+    boolean isGameFinished() {
+        if (minesCoordinates.length != markedCellsCount) {
+            return false;
+        }
 
-    FieldState(char symbol) {
-        this.symbol = symbol;
+        for (int[] mineCoordinate : minesCoordinates) {
+            if (field[mineCoordinate[1]][mineCoordinate[0]] != '*') {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    void print() {
+        System.out.println(" |123456789|");
+        System.out.println("-|---------|");
+        for (int i = 0; i < this.field.length; i++) {
+            StringBuilder row = new StringBuilder();
+            row.append(i + 1 + "|");
+            for (int j = 0; j < this.field[0].length; j++) {
+                row.append(this.field[i][j]);
+            }
+            row.append("|");
+            System.out.println(row);
+        }
+        System.out.println("-|---------|");
+    }
+
+    private char[][] generateField() {
+        char[][] field = new char[9][9];
+        for (int i = 0; i < field.length; i++) {
+            for (int j = 0; j < field[0].length; j++) {
+                field[i][j] = '.';
+            }
+        }
+        return field;
     }
 }
