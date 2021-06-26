@@ -12,6 +12,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Minesweeper/task" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Books" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Inner boxes" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
             <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management" />
             <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels" />
             <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control" />
@@ -21,6 +26,12 @@
             <option value="$PROJECT_DIR$/Topics/Generics and Object/Correct the usage of non-generic class" />
             <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
             <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Getting the max element of a stack" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Greedy load balance" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Html Parser" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Working with queue" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

@@ -1,3 +1,6 @@
-minesweeper/Main.java
+minesweeper/CellState.java
+ minesweeper.CellState
+minesweeper/Field.java
  minesweeper.Field
+minesweeper/Main.java
  minesweeper.Main
